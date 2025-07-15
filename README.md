@@ -1,4 +1,4 @@
-# 📊 Proyecto_mercadona
+# 📊 Proyecto Mercadona
 **Análisis de datos y visualización para comprender el posicionamiento de Mercadona frente a su competencia**
 
 ---
